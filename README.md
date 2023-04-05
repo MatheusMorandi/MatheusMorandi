@@ -6,14 +6,17 @@
 
 <br>
 <pre>
-<div align="center">
-▰▰▰─────────┤ About Me ├─────────▰▰▰
-  ▣ My name is Matheus Morandi
-  ▣ I'm 19 years old
-  ▣ I'm taking Big Data in Agribusiness at Fatec Shunji Nishimura in Pómpeia-Sp
-  ▣ My current focus is on data science and machine learning
-▰▰▰──────────────────────────────▰▰▰
+
+<div>
+                            ▰▰▰────────────────────────────┤ About Me ├────────────────────────────▰▰▰ 
+                            ▣ My name is Matheus Morandi
+                            ▣ I'm 19 years old
+                            ▣ I'm taking Big Data in Agribusiness at Fatec Shunji Nishimura in Pómpeia-Sp
+                            ▣ My current focus is on data science and machine learning
+                            ▰▰▰───────────────────────────────────────────────────────────────────▰▰▰
+
 </div>
+
 </pre>
 
 <div align="center">  
