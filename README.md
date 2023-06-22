@@ -8,12 +8,12 @@
 <pre>
 
 <div>
-                            ▰▰▰────────────────────────────┤ About Me ├────────────────────────────▰▰▰ 
-                            ▣ My name is Matheus Morandi
-                            ▣ I'm 19 years old
-                            ▣ I'm taking Big Data in Agribusiness at Fatec Shunji Nishimura in Pómpeia-Sp
-                            ▣ My current focus is on data science and machine learning
-                            ▰▰▰───────────────────────────────────────────────────────────────────▰▰▰
+                          ▰▰▰────────────────────────────┤ About Me ├────────────────────────────▰▰▰ 
+                          ▣ My name is Matheus Morandi
+                          ▣ I'm 19 years old
+                          ▣ I'm taking Big Data in Agribusiness at Fatec Shunji Nishimura in Pómpeia-Sp
+                          ▣ My current focus is on data science and machine learning
+                          ▰▰▰───────────────────────────────────────────────────────────────────▰▰▰
 
 </div>
 
@@ -25,8 +25,11 @@
 </div>
 
 <br>
-<pre>
-                            ▰▰▰─────────┤ Tecnologies ├─────────▰▰▰                            
-                            ▰▰▰─────────────────────────────────▰▰▰
 
+<pre>
+▰▰▰─────────┤ Tecnologies ├─────────▰▰▰                                                       
 </pre>
+
+<p>
+<img height="30" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+</p>
