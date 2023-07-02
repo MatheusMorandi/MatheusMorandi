@@ -8,12 +8,12 @@
 <pre>
 
 <div>
-                          ▰▰▰────────────────────────────┤ About Me ├────────────────────────────▰▰▰ 
-                          ▣ My name is Matheus Morandi
-                          ▣ I'm 19 years old
-                          ▣ I'm taking Big Data in Agribusiness at Fatec Shunji Nishimura in Pómpeia-Sp
-                          ▣ My current focus is on data science and machine learning
-                          ▰▰▰───────────────────────────────────────────────────────────────────▰▰▰
+                        ▰▰▰────────────────────────────┤ About Me ├────────────────────────────▰▰▰ 
+                        ▣ My name is Matheus Morandi
+                        ▣ I'm 19 years old
+                        ▣ I'm taking Big Data in Agribusiness at Fatec Shunji Nishimura in Pómpeia-Sp
+                        ▣ My current focus is on data science and machine learning
+                        ▰▰▰───────────────────────────────────────────────────────────────────▰▰▰
 
 </div>
 
@@ -27,11 +27,15 @@
 <br>
 
 <pre>
-                          ▰▰▰────────────────────────────┤ Tecnologies ├────────────────────────────▰▰▰                                                       
-<p>
-<img height="30" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-</p>
-</div>
+                        ▰▰▰───────────────────────────┤ Languages ├───────────────────────────▰▰▰
+
+                                     <img height="35" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">                <img height="35" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   
-                          ▰▰▰──────────────────────────────────────────────────────────────────────▰▰▰  
+                        ▰▰▰───────────────────────────────────────────────────────────────────▰▰▰
+</pre>
+
+<pre>
+                        ▰▰▰──────────────────────────┤ Social Media ├──────────────────────────▰▰▰
+
+                        ▰▰▰───────────────────────────────────────────────────────────────────▰▰▰
 </pre>
